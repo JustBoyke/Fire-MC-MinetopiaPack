@@ -1,0 +1,9 @@
+    {
+
+    "luchtalarm": {"sounds": ["custom/luchtalarm"]},
+	"alarm": {"sounds": ["custom/alarm"]},
+	"politie": {"sounds": ["custom/politie"]},
+	"whalarm": {"sounds": ["custom/whalarm"]},
+	"deurbel": {"sounds": ["custom/doorbel"]}
+
+    }

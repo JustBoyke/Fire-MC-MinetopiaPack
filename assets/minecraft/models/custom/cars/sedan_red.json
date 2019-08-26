@@ -1,0 +1,9 @@
+{
+    "parent": "custom/cars/sedan_navyblauw",
+    "textures": {
+        "particle": "items/e_particle",
+		"texture": "items/e_texture",
+		"voxels_atlas": "custom/cars/sedan_red",
+		"voxels_palette": "blocks/glass_white"
+    }
+}

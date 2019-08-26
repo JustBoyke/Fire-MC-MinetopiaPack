@@ -1,0 +1,9 @@
+
+{
+    "parent": "custom/cars/motor_blue",
+    "textures": {
+        "particle": "items/particle",
+		"texture": "items/texture",
+		"voxels_atlas": "custom/cars/motor_pink"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "custom/cars/english_blue",
+    "textures": {
+        "particle": "items/particle",
+		"texture": "items/texture",
+		"voxels_atlas": "custom/cars/english_green",
+		"voxels_palette": "blocks/glass_white"
+    }
+}
