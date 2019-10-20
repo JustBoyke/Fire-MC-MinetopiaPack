@@ -1,12 +1,12 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/special/duffy_sword_grijs",
-		"grijs": "blocks/special/duffy_sword_grijs",
-		"zwart": "blocks/special/duffy_sword_zwart",
-		"groen": "blocks/special/duffy_sword_groen",
-		"DG": "blocks/special/duffy_logo",
-		"oranje": "blocks/special/duffy_sword_oranje"
+		"particle": "block/special/duffy_sword_grijs",
+		"grijs": "block/special/duffy_sword_grijs",
+		"zwart": "block/special/duffy_sword_zwart",
+		"groen": "block/special/duffy_sword_groen",
+		"DG": "block/special/duffy_logo",
+		"oranje": "block/special/duffy_sword_oranje"
 	},
 	"elements": [
 		{

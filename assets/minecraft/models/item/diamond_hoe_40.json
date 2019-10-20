@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Nathankuijt with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
-		"mesh_atlas": "blocks/mesh_atlas"
+		"particle": "block/particle",
+		"texture": "block/texture",
+		"mesh_atlas": "block/mesh_atlas"
 	},
 	"elements": [
 		{

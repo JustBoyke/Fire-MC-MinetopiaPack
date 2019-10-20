@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by DitIsMax_ for DDG [Minetopia]",
 	"textures": {
-		"particle": "blocks/rendier_texture",
-		"rendier_texture": "blocks/special/rendier_texture"
+		"particle": "block/rendier_texture",
+		"rendier_texture": "block/special/rendier_texture"
 	},
 	"elements": [ 	 
 		{

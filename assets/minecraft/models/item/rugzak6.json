@@ -1,11 +1,11 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_cyan",
-		"kleur": "blocks/special/rotjoch_sword_geel",
-		"touwtjes": "blocks/hardened_clay_stained_black",
-		"logo": "blocks/special/rotjoch_logo",
-		"zipper": "blocks/hardened_clay_stained_cyan"
+		"particle": "block/terracotta_stained_cyan",
+		"kleur": "block/special/rotjoch_sword_geel",
+		"touwtjes": "block/terracotta_stained_black",
+		"logo": "block/special/rotjoch_logo",
+		"zipper": "block/terracotta_stained_cyan"
 	},
 	"elements": [
 		{
@@ -563,7 +563,7 @@
 			"translation":  [ 0, 2.0869, 0 ]
 		},
 		"head": {
-			"rotation":  [ 0, 90, 0 ],
+			"rotation":  [ 0, 180, 0 ],
 			"translation":  [ 0, -12.52, 4.1739 ],
 			"scale":  [ 1.5, 1.5, 1.5 ]
 		},

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"guitar_texture": "blocks/special/guitar_texture"
+		"guitar_texture": "block/special/guitar_texture"
 	},
 	"elements": [
 		{

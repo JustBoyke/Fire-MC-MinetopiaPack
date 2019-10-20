@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/special/ballonrope",
-		"Rope": "blocks/special/ballonrope",
-		"ballon": "blocks/hardened_clay_stained_yellow"
+		"particle": "block/special/ballonrope",
+		"Rope": "block/special/ballonrope",
+		"ballon": "block/hardened_clay_stained_yellow"
 	},
 	"elements": [
 		{

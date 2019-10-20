@@ -1,6 +1,6 @@
 
 {
-    "parent": "custom/cars/motor_red",
+    "parent": "custom/cars/motor_blue",
     "textures": {
         "particle": "items/particle",
 		"texture": "items/texture",

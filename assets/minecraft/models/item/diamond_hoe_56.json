@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"playerskin": "blocks/special/Lukienatorpower_skin"
+		"playerskin": "block/special/jephreau_skin"
 	},
 	"elements": [
 		{

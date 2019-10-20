@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by TimeWalk with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"0": "blocks/emoticons/1f918",
-		"1": "blocks/emoticons/clear",
-		"particle": "blocks/emoticons/1f918"
+		"0": "block/emoticons/1f918",
+		"1": "block/emoticons/clear",
+		"particle": "block/emoticons/1f918"
 	},
 	"elements": [ 	 
 		{

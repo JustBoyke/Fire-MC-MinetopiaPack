@@ -4,7 +4,7 @@
 		"particle": "items/particle",
 		"texture": "items/texture",
 		"voxels_atlas": "custom/cars/sportief_black",
-		"voxels_palette": "blocks/glass_gray"
+		"voxels_palette": "block/glass_gray"
 	},
 	"elements": [ 	 
 		{

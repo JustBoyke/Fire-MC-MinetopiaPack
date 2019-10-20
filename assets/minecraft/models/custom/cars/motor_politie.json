@@ -4,7 +4,7 @@
 		"particle": "items/particle",
 		"texture": "items/texture",
 		"voxels_atlas": "custom/cars/motor_politie",
-		"voxels_palette": "blocks/glass_blue"
+		"voxels_palette": "block/glass_blue"
 	},
 	"elements": [ 	 
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"playerskin": "blocks/special/hulk_skin"
+		"playerskin": "block/special/hulk_skin"
 	},
 	"elements": [
 		{

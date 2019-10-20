@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/special/microphone_2",
-		"microphoneSilver": "blocks/special/microphone_2",
-		"microphonesound": "blocks/special/microphone_1"
+		"particle": "block/special/microphone_2",
+		"microphoneSilver": "block/special/microphone_2",
+		"microphonesound": "block/special/microphone_1"
 	},
 	"elements": [
 		{

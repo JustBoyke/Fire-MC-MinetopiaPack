@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Nathantjuhh for DusDavidGames server",
 	"textures": {
-		"0": "blocks/golden_bar",
-		"1": "blocks/gold_text",
-		"particle": "blocks/gold_block"
+		"0": "block/golden_bar",
+		"1": "block/gold_text",
+		"particle": "block/gold_block"
 	},
 	"elements": [
 		{

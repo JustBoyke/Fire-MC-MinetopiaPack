@@ -4,6 +4,6 @@
         "particle": "items/e_particle",
 		"texture": "items/e_texture",
 		"voxels_atlas": "custom/cars/sedan_yellow",
-		"voxels_palette": "blocks/glass_yellow"
+		"voxels_palette": "block/glass_yellow"
     }
 }

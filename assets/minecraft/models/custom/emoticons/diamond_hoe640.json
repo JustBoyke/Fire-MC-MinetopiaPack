@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/emoticons/2601",
-		"1": "blocks/emoticons/clear",
-		"particle": "blocks/emoticons/2601"
+		"0": "block/emoticons/2601",
+		"1": "block/emoticons/clear",
+		"particle": "block/emoticons/2601"
 	},
 	"elements": [ 	 
 		{

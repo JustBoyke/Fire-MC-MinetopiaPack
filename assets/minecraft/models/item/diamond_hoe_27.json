@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"playerskin": "blocks/special/BadestBaby_skin"
+		"playerskin": "block/special/harkje_skin"
 	},
 	"elements": [
 		{

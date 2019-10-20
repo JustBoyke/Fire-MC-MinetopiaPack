@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Nathankuijt with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/special/kerstman_skin"
+		"particle": "block/special/kerstman_skin"
 	},
 	"elements": [ 	 
 		{

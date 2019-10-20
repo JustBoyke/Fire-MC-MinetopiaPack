@@ -1,10 +1,10 @@
 {
 	"credit": "Designed by Zeeppompje - In Order Of DusDavidGames",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_light_blue",
-		"1": "blocks/concrete_powder_white",
-		"2": "blocks/bookshelf",
-		"particle": "blocks/hardened_clay_stained_light_blue"
+		"0": "block/light_blue_terracotta",
+		"1": "block/concrete_powder_white",
+		"2": "block/bookshelf",
+		"particle": "block/blue_terracotta"
 	},
 	"elements": [
 		{

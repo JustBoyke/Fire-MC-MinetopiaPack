@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"playerskin": "blocks/special/shanyrria_skin"
+		"playerskin": "block/special/shanyrria_skin"
 	},
 	"elements": [
 		{

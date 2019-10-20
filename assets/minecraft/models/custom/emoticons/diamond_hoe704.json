@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/emoticons/606",
-		"1": "blocks/emoticons/clear",
-		"particle": "blocks/emoticons/606"
+		"0": "block/emoticons/606",
+		"1": "block/emoticons/clear",
+		"particle": "block/emoticons/606"
 	},
 	"elements": [ 	 
 		{

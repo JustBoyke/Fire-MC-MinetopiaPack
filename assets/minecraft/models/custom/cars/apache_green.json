@@ -1,5 +1,5 @@
 {
-    "parent": "custom/cars/apache_blue",
+    "parent": "custom/cars/apache_gray",
 	"textures": {
 		"particle": "items/particle",
 		"texture": "items/texture",

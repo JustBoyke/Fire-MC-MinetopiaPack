@@ -1,12 +1,12 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/special/camera_zwart",
-		"zwart": "blocks/special/camera_zwart",
-		"lichtzwart": "blocks/special/camera_lichtzwart",
-		"grijs": "blocks/special/camera_grijs",
-		"lichtgrijs": "blocks/special/camera_lichtgrijs",
-		"scherm": "blocks/special/camera_scherm"
+		"particle": "block/special/camera_zwart",
+		"zwart": "block/special/camera_zwart",
+		"lichtzwart": "block/special/camera_lichtzwart",
+		"grijs": "block/special/camera_grijs",
+		"lichtgrijs": "block/special/camera_lichtgrijs",
+		"scherm": "block/special/camera_scherm"
 	},
 	"elements": [
 		{

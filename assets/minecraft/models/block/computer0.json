@@ -1,13 +1,13 @@
 {
 	"__comment": "Updated Version For Play.DusDavidGames.nl",
 	"textures": {
-		"particle": "blocks/anvil_base",
-		"1": "blocks/anvil_base",
-		"2": "blocks/structure_block",
-		"3": "blocks/iron_block",
-		"4": "blocks/quartz_block_bottom",
-		"5": "blocks/stone_andesite",
-		"6": "blocks/wool_colored_cyan"
+		"particle": "block/anvil_base",
+		"1": "block/anvil_base",
+		"2": "block/structure_block",
+		"3": "block/iron_block",
+		"4": "block/quartz_block_bottom",
+		"5": "block/stone_andesite",
+		"6": "block/wool_colored_cyan"
 	},
 	"elements": [
 		{

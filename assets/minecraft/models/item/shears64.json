@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/cauldron_inner",
-		"cap": "blocks/wool_colored_red",
-		"snow": "blocks/snow",
-		"iron_block": "blocks/iron_block",
-		"DDG": "items/KP"
+		"texture": "block/cauldron_inner",
+		"cap": "block/wool_colored_red",
+		"snow": "block/snow",
+		"iron_block": "block/iron_block",
+		"DDG": "item/kp"
 	},
 	"elements": [
 		{

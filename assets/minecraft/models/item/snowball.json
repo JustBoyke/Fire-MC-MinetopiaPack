@@ -1,0 +1,116 @@
+{
+	"__comment": "Designed by Nightcling",
+	"textures": {
+		"particle": "custom/extra_clip_gold",
+		"bullet_gold": "custom/extra_clip_gold"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 6, 6.5, 7 ],
+			"to": [ 9, 9.5, 12.5 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 1.5, 7.5 ], "texture": "#bullet_gold" },
+				"up": { "uv": [ 3.5, 0, 5, 7.5 ], "texture": "#bullet_gold", "rotation": 90 },
+				"north": { "uv": [ 3.5, 11, 5, 12.5 ], "texture": "#bullet_gold" },
+				"south": { "uv": [ 2, 2.5, 3.5, 4.5 ], "texture": "#bullet_gold", "rotation": 270 },
+				"west": { "uv": [ 0, 12.5, 8.5, 14.5 ], "texture": "#bullet_gold" },
+				"east": { "uv": [ 0, 12.5, 8.5, 14.5 ], "texture": "#bullet_gold" }
+			}
+		},
+		{
+			"from": [ 6.25, 6.75, 3.5 ],
+			"to": [ 8.75, 9.25, 7 ],
+			"faces": {
+				"down": { "uv": [ 0, 1.5, 1, 7.5 ], "texture": "#bullet_gold" },
+				"up": { "uv": [ 3.5, 2, 4.5, 8 ], "texture": "#bullet_gold" },
+				"north": { "uv": [ 7.5, 6.5, 8.5, 7.5 ], "texture": "#bullet_gold" },
+				"west": { "uv": [ 2, 13.5, 8, 14.5 ], "texture": "#bullet_gold" },
+				"east": { "uv": [ 2, 13.5, 8, 14.5 ], "texture": "#bullet_gold" }
+			}
+		},
+		{
+			"from": [ 6.75, 7.25, 2.25 ],
+			"to": [ 8.25, 8.75, 3.5 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 14.5, 7, 16 ], "texture": "#bullet_gold" },
+				"up": { "uv": [ 8, 11, 9.5, 12.5 ], "texture": "#bullet_gold" },
+				"north": { "uv": [ 5.5, 11, 7, 12.5 ], "texture": "#bullet_gold" },
+				"west": { "uv": [ 5.5, 12.5, 7, 14 ], "texture": "#bullet_gold" },
+				"east": { "uv": [ 5, 12.5, 6.5, 14 ], "texture": "#bullet_gold" }
+			}
+		},
+		{
+			"__comment": "Box4",
+			"from": [ 5.625, 6.125, 12.5 ],
+			"to": [ 9.375, 9.875, 12.75 ],
+			"faces": {
+				"down": { "uv": [ 5.625, 3.25, 9.375, 3.5 ], "texture": "#bullet_gold" },
+				"up": { "uv": [ 5.625, 12.5, 9.375, 12.75 ], "texture": "#bullet_gold" },
+				"north": { "uv": [ 6.625, 6.125, 10.375, 9.875 ], "texture": "#bullet_gold" },
+				"south": { "uv": [ 5.625, 6.125, 9.375, 9.875 ], "texture": "#bullet_gold" },
+				"west": { "uv": [ 12.5, 6.125, 12.75, 9.875 ], "texture": "#bullet_gold" },
+				"east": { "uv": [ 3.25, 6.125, 3.5, 9.875 ], "texture": "#bullet_gold" }
+			}
+		},
+		{
+			"__comment": "Box5",
+			"from": [ 7, 7.5, 1.875 ],
+			"to": [ 8, 8.5, 2.25 ],
+			"faces": {
+				"down": { "uv": [ 7, 13.75, 8, 14.125 ], "texture": "#bullet_gold" },
+				"up": { "uv": [ 7, 1.875, 8, 2.25 ], "texture": "#bullet_gold" },
+				"north": { "uv": [ 8, 7.5, 9, 8.5 ], "texture": "#bullet_gold" },
+				"south": { "uv": [ 7, 7.5, 8, 8.5 ], "texture": "#bullet_gold" },
+				"west": { "uv": [ 1.875, 7.5, 2.25, 8.5 ], "texture": "#bullet_gold" },
+				"east": { "uv": [ 13.75, 7.5, 14.125, 8.5 ], "texture": "#bullet_gold" }
+			}
+		},
+		{
+			"__comment": "Box5",
+			"from": [ 7.125, 7.625, 1.625 ],
+			"to": [ 7.875, 8.375, 1.875 ],
+			"faces": {
+				"down": { "uv": [ 7, 13.75, 8, 13.875 ], "texture": "#bullet_gold" },
+				"up": { "uv": [ 7, 2.125, 8, 2.25 ], "texture": "#bullet_gold" },
+				"north": { "uv": [ 8, 7.5, 9, 8.5 ], "texture": "#bullet_gold" },
+				"south": { "uv": [ 7, 7.5, 8, 8.5 ], "texture": "#bullet_gold" },
+				"west": { "uv": [ 2.125, 7.5, 2.25, 8.5 ], "texture": "#bullet_gold" },
+				"east": { "uv": [ 13.75, 7.5, 13.875, 8.5 ], "texture": "#bullet_gold" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 127, 0, 0 ],
+			"translation":  [ 0, 0.1086, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 127, 0, 0 ],
+			"translation":  [ 0, 0.1086, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ 2.8, 0, -5 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 3, 0 ],
+			"translation":  [ -1.13, 0, -5 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 31, 117, 0 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"translation":  [ 0, 1.9, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ]
+		}
+	}
+}

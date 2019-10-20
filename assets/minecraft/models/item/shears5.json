@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Nightcling",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_yellow",
-		"yellow": "blocks/hardened_clay_stained_yellow",
-		"gray": "blocks/hardened_clay_stained_cyan"
+		"particle": "block/hardened_clay_stained_yellow",
+		"yellow": "block/hardened_clay_stained_yellow",
+		"gray": "block/hardened_clay_stained_cyan"
 	},
 	"elements": [ 	 
 		{

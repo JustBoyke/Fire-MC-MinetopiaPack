@@ -1,18 +1,18 @@
 {
 "__comment": "Designed by Sibsib92 with BDcraft Cubik PRO 0.92 Beta - http://bdcraft.net",
 "textures": {
-    "particle": "blocks/jukebox_side",
-    "diamond": "blocks/diamond_block",
-    "texture": "blocks/cauldron_inner",
-    "iron": "blocks/iron_block",
-    "gray": "blocks/hardened_clay_stained_cyan",
-    "yellow": "blocks/wool_colored_yellow",
-    "magenta": "blocks/wool_colored_magenta",
-    "purple": "blocks/wool_colored_purple",
-    "lime": "blocks/wool_colored_lime",
-    "blue": "blocks/wool_colored_blue",
-    "red": "blocks/wool_colored_red",
-    "light_blue": "blocks/wool_colored_light_blue"
+    "particle": "block/jukebox_side",
+    "diamond": "block/diamond_block",
+    "texture": "block/cauldron_inner",
+    "iron": "block/iron_block",
+    "gray": "block/cyan_terracotta",
+    "yellow": "block/yellow_wool",
+    "magenta": "block/magenta_wool",
+    "purple": "block/purple_wool",
+    "lime": "block/lime_wool",
+    "blue": "block/blue_wool",
+    "red": "block/red_wool",
+    "light_blue": "block/light_blue_wool"
 },
 "elements": [ 
 {

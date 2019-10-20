@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"playerskin": "blocks/special/willembouwens_skin"
+		"playerskin": "block/special/willembouwens_skin"
 	},
 	"elements": [
 		{

@@ -1,13 +1,13 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "particle": "blocks/quartz_block_bottom",
-        "0": "blocks/quartz_block_bottom",
-        "1": "blocks/anvil_base",
-        "2": "blocks/hardened_clay_stained_cyan",
-        "3": "blocks/anvil_base",
-        "4": "blocks/stone",
-        "5": "blocks/cauldron_inner"
+        "particle": "block/quartz_block_bottom",
+        "0": "block/quartz_block_bottom",
+        "1": "block/anvil",
+        "2": "block/cyan_terracotta",
+        "3": "block/anvil",
+        "4": "block/stone",
+        "5": "block/cauldron_inner"
     },
     "elements": [
         {

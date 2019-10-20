@@ -1,13 +1,13 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_pink",
-		"color": "blocks/hardened_clay_stained_pink",
-		"glass": "blocks/glass_gray",
-		"black": "blocks/hardened_clay_stained_black",
-		"color2": "blocks/hardened_clay_stained_magenta",
-		"wit": "blocks/hardened_clay_stained_white",
-		"logo": "blocks/special/heart"
+		"particle": "block/hardened_clay_stained_pink",
+		"color": "block/hardened_clay_stained_pink",
+		"glass": "block/glass_gray",
+		"black": "block/hardened_clay_stained_black",
+		"color2": "block/hardened_clay_stained_magenta",
+		"wit": "block/hardened_clay_stained_white",
+		"logo": "block/special/heart"
 	},
 	"elements": [
 		{

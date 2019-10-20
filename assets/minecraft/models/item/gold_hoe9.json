@@ -1,0 +1,68 @@
+{
+	"__comment": "Designed by Nathankuijt with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/kaarten/back",
+		"kaart": "block/kaarten/malibu1"
+	},
+	"elements": [
+		{
+			"__comment": "Cube3",
+			"from": [ 0, 3, 7.375 ],
+			"to": [ 16, 13, 7.625 ],
+			"faces": {
+				"down": { "uv": [ 0, 3, 16, 3.25 ], "texture": "#particle" },
+				"up": { "uv": [ 0, 3, 16, 3.25 ], "texture": "#particle" },
+				"north": { "uv": [ 0, 3, 16, 13 ], "texture": "#particle" },
+				"south": { "uv": [ 0, 3, 16, 13 ], "texture": "#particle" },
+				"west": { "uv": [ 0, 3, 0.25, 13 ], "texture": "#particle" },
+				"east": { "uv": [ 15.75, 3, 16, 13 ], "texture": "#particle" }
+			}
+		},
+		{
+			"__comment": "Cube4",
+			"from": [ 0, 3, 7.25 ],
+			"to": [ 16, 13, 7.375 ],
+			"faces": {
+				"down": { "uv": [ 0, 8.625, 16, 8.75 ], "texture": "#kaart" },
+				"up": { "uv": [ 0, 7.25, 16, 7.375 ], "texture": "#kaart" },
+				"north": { "uv": [ 0, 4, 16, 12 ], "texture": "#kaart" },
+				"south": { "uv": [ 0, 3, 16, 13 ], "texture": "#kaart" },
+				"west": { "uv": [ 15.75, 4, 16, 11.5 ], "texture": "#kaart" },
+				"east": { "uv": [ 0, 4.5, 0.5, 12 ], "texture": "#kaart" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 75, 70, 0 ],
+			"translation":  [ 1.3913, 1.1086, 0 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 75, 70, 0 ],
+			"translation":  [ 1.3913, 1.1086, 0 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 11, 108, 9 ],
+			"translation":  [ 3.4782, 2.7826, -2.086 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 11, 108, 9 ],
+			"translation":  [ 3.4782, 2.7826, -2.086 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"scale":  [ 1, 1, 0.4 ]
+		},
+		"ground": {
+			"rotation":  [ 90, 0, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"fixed": {
+			"translation":  [ 0, 0, 1.5 ]
+		}
+	}
+}

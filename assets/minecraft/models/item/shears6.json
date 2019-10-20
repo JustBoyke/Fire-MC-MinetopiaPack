@@ -1,7 +1,7 @@
 {
 	"__comment": "In Order Of DusDavidGames - Minetopia",
 	"textures": {
-		"texture": "blocks/special/gokugold"
+		"texture": "block/special/gokugold"
 	},
 	"elements": [ 	 
 		{

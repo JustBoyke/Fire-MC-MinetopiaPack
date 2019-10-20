@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Meloenmahn",
 	"textures": {
-		"2": "blocks/silver_bar",
-		"4": "blocks/silver_text"
+		"2": "block/silver_bar",
+		"4": "block/silver_text"
 	},
 	"elements": [
 		{

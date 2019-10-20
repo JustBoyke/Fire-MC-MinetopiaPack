@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Meloenmahn",
 	"textures": {
-		"0": "blocks/special/camera_scherm",
-		"1": "blocks/hardened_clay_stained_lime",
-		"particle": "blocks/special/camera_scherm"
+		"0": "block/special/camera_scherm",
+		"1": "block/hardened_clay_stained_lime",
+		"particle": "block/special/camera_scherm"
 	},
 	"elements": [
 		{

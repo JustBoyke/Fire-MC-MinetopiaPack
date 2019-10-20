@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": [
+        { "model": "paas_eieren/paas_ei_0" },
+        { "model":"paas_eieren/paas_ei_1" },
+        { "model": "paas_eieren/paas_ei_2"},
+        { "model": "paas_eieren/paas_ei_3"},
+        { "model": "paas_eieren/paas_ei_4"},
+        { "model": "paas_eieren/paas_ei_5"},
+        { "model": "paas_eieren/paas_ei_6"},
+        { "model": "paas_eieren/paas_ei_7"},
+        { "model": "paas_eieren/paas_ei_8"},
+        { "model": "paas_eieren/paas_ei_9"}
+		]
+	}
+}

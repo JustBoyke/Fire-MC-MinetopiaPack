@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"playerskin": "blocks/special/kerstman_skin"
+		"playerskin": "block/special/kerstman_skin"
 	},
 	"elements": [
 		{

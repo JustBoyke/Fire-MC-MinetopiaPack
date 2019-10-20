@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Zeeppompje for the DDG MineTopia ResourcePack",
 	"textures": {
-		"0": "blocks/special/skin_sheep",
-		"particle": "blocks/special/skin_sheep"
+		"0": "block/special/skin_sheep",
+		"particle": "block/special/skin_sheep"
 	},
 	"elements": [
 		{

@@ -4,6 +4,6 @@
         "particle": "items/e_particle",
 		"texture": "items/e_texture",
 		"voxels_atlas": "custom/cars/sportief_roze",
-		"voxels_palette": "blocks/glass_pink"
+		"voxels_palette": "block/glass_pink"
     }
 }

@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Qildor with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"0": "blocks/bankcards/pas_geel",
-		"1": "blocks/badges/clear",
-		"particle": "blocks/bankcards/pas_geel"
+		"0": "block/bankcards/pas_geel",
+		"1": "block/badges/clear",
+		"particle": "block/bankcards/pas_geel"
 	},
 	"elements": [ 	 
 		{

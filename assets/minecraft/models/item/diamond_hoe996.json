@@ -1,10 +1,10 @@
 {
 "__comment": "Designed by Eagleshooter217 with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
 "textures": {
-    "texture": "blocks/anvil_base",
-    "hardened_clay_stained_yellow": "blocks/hardened_clay_stained_yellow",
-    "redstone_torch_on": "blocks/redstone_torch_on",
-    "iron_block": "blocks/iron_block"
+    "texture": "block/anvil",
+    "yellow_terracotta": "block/yellow_terracotta",
+    "redstone_torch_on": "block/redstone_torch_on",
+    "iron_block": "block/iron_block"
 },
 "elements": [ 
 {
@@ -26,8 +26,8 @@
     "faces": {
         "down":  { "uv": [ 13.5, 7.6875, 6, 5.75 ], "texture": "#texture" },
         "up":    { "uv": [ 2.5, 5.75, 10, 7.6875 ], "texture": "#texture" },
-        "north": { "uv": [ 6, 4.875, 13.5, 8.4375 ], "texture": "#hardened_clay_stained_yellow" },
-        "south": { "uv": [ 2.5, 4.875, 10, 8.4375 ], "texture": "#hardened_clay_stained_yellow" },
+        "north": { "uv": [ 6, 4.875, 13.5, 8.4375 ], "texture": "#yellow_terracotta" },
+        "south": { "uv": [ 2.5, 4.875, 10, 8.4375 ], "texture": "#yellow_terracotta" },
         "west":  { "uv": [ 5.75, 4.875, 7.6875, 8.4375 ], "texture": "#texture" },
         "east":  { "uv": [ 8.3125, 4.875, 10.25, 8.4375 ], "texture": "#texture" }
     }
@@ -50,8 +50,8 @@
     "faces": {
         "down":  { "uv": [ 14.5, 5, 13.5, 4 ], "texture": "#texture" },
         "up":    { "uv": [ 1.5, 4, 2.5, 5 ], "texture": "#texture" },
-        "north": { "uv": [ 13.5, 5.5, 14.5, 7 ], "texture": "#hardened_clay_stained_yellow" },
-        "south": { "uv": [ 1.5, 5.5, 2.5, 7 ], "texture": "#hardened_clay_stained_yellow" },
+        "north": { "uv": [ 13.5, 5.5, 14.5, 7 ], "texture": "#yellow_terracotta" },
+        "south": { "uv": [ 1.5, 5.5, 2.5, 7 ], "texture": "#yellow_terracotta" },
         "west":  { "uv": [ 4, 5.5, 5, 7 ], "texture": "#texture" },
         "east":  { "uv": [ 11, 5.5, 12, 7 ], "texture": "#texture" }
     }

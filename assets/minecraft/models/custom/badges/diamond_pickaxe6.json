@@ -1,9 +1,9 @@
 {
 	"credit": "Qildor Made with Blockbench",
 	"textures": {
-		"0": "blocks/badges/duikbril1",
-		"1": "blocks/badges/clear",
-		"particle": "blocks/badges/duikbril1"
+		"0": "block/badges/duikbril1",
+		"1": "block/badges/clear",
+		"particle": "block/badges/duikbril1"
 	},
 	"elements": [
 		{

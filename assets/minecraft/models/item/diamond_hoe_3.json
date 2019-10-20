@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"playerskin": "blocks/special/myreleios_skin",
-		"blaze_rod": "blocks/special/blaze_rod"
+		"playerskin": "block/special/myreleios_skin",
+		"blaze_rod": "block/special/blaze_rod"
 	},
 	"elements": [
 		{

@@ -1,17 +1,16 @@
 {
 	"__comment": "Updated Version Play.DusDavidGames.NL",
 	"textures": {
-		"particle": "blocks/anvil_base",
-		"1": "blocks/anvil_base",
-		"2": "blocks/structure_block",
-		"3": "blocks/iron_block",
-		"4": "blocks/quartz_block_bottom",
-		"5": "blocks/stone_andesite",
-		"6": "blocks/wool_colored_cyan"
+		"particle": "block/anvil",
+		"1": "block/anvil",
+		"2": "block/black_wool",
+		"3": "block/iron_block",
+		"4": "block/quartz_block_bottom",
+		"5": "block/andesite",
+		"6": "block/cyan_wool"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
-			"__comment": "Element",
 			"from": [ 11, 4, -1 ],
 			"to": [ 11.5, 15.5, 17 ],
 			"faces": {
@@ -24,7 +23,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 10.5, 0, 7 ],
 			"to": [ 15, 0.5, 10 ],
 			"faces": {
@@ -37,7 +35,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 11.5, 5.5, 0.5 ],
 			"to": [ 12.5, 14.5, 15.5 ],
 			"faces": {
@@ -50,7 +47,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 12.5, 0.5, 7.8125 ],
 			"to": [ 14, 3.5, 9.3125 ],
 			"faces": {
@@ -63,7 +59,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 12, 3, 7.8125 ],
 			"to": [ 13.5, 5.5, 9.3125 ],
 			"faces": {
@@ -76,7 +71,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 11.5, 4.5, 7.8125 ],
 			"to": [ 13, 6, 9.3125 ],
 			"faces": {
@@ -89,7 +83,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 10.9375, 15, -1 ],
 			"to": [ 11, 15.5, 17 ],
 			"faces": {
@@ -102,7 +95,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 10.9375, 4, -1 ],
 			"to": [ 11, 5, 17 ],
 			"faces": {
@@ -115,7 +107,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 10.9375, 5, 16.5 ],
 			"to": [ 11, 15, 17 ],
 			"faces": {
@@ -128,7 +119,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 10.9375, 5, -1 ],
 			"to": [ 11, 15, -0.5 ],
 			"faces": {
@@ -141,7 +131,18 @@
 			}
 		},
 		{
-			"__comment": "Element",
+			"from": [ 10.9375, 5, -0.5 ],
+			"to": [ 11, 15, 16.5 ],
+			"faces": {
+				"down": { "uv": [ 16, 5.0625, 0, 5 ], "texture": "#2", "rotation": 270 },
+				"up": { "uv": [ 0, 5, 16, 5.0625 ], "texture": "#2", "rotation": 90 },
+				"north": { "uv": [ 5, 1, 5.0625, 11 ], "texture": "#2" },
+				"south": { "uv": [ 10.9375, 1, 11, 11 ], "texture": "#2" },
+				"west": { "uv": [ 0.5, 3.5, 15.5, 13 ], "texture": "#2" },
+				"east": { "uv": [ 0.5, 2.5, 15.5, 13 ], "texture": "#2" }
+			}
+		},
+		{
 			"from": [ 10.8125, 4.25, 15.5 ],
 			"to": [ 11.3125, 4.75, 16.5 ],
 			"faces": {
@@ -154,7 +155,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 4, 0, 0 ],
 			"to": [ 8.5, 0.5, 13 ],
 			"faces": {
@@ -167,7 +167,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 4.5, 0.5, 0.5 ],
 			"to": [ 8, 0.5625, 8.5 ],
 			"faces": {
@@ -180,7 +179,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 4.5, 0.5, 11 ],
 			"to": [ 7.5, 0.5625, 12.5 ],
 			"faces": {
@@ -193,7 +191,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 6, 0.5, 9 ],
 			"to": [ 8, 0.5625, 10.5 ],
 			"faces": {
@@ -206,7 +203,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 4.5, 0.5, 9 ],
 			"to": [ 5, 0.5625, 10.5 ],
 			"faces": {
@@ -219,7 +215,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 5, 0.5, 9.5 ],
 			"to": [ 5.5, 0.5625, 10 ],
 			"faces": {
@@ -232,7 +227,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 4.0625, 0, 13.5 ],
 			"to": [ 8.0625, 0.0625, 16 ],
 			"faces": {
@@ -245,7 +239,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 4.4375, -0.0625, 13.75 ],
 			"to": [ 7.5625, 0.75, 15.75 ],
 			"faces": {
@@ -258,7 +251,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
 			"from": [ 6.5, 0.375, 14.5 ],
 			"to": [ 7.5, 0.875, 14.8125 ],
 			"faces": {

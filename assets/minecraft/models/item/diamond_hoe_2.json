@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"playerskin": "blocks/special/djskin1990_skin",
-		"lootcrate_chest": "blocks/special/lootcrate_chest"
+		"playerskin": "block/special/djskin1990_skin",
+		"lootcrate_chest": "block/special/lootcrate_chest"
 	},
 	"elements": [
 		{

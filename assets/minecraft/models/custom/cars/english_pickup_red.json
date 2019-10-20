@@ -1,9 +1,0 @@
-{
-    "parent": "custom/cars/english_pickup_blue",
-    "textures": {
-        "particle": "items/particle",
-		"texture": "items/texture",
-		"voxels_palette": "blocks/glass_white",
-		"voxels_atlas1": "custom/cars/english_pickup_red"
-    }
-}

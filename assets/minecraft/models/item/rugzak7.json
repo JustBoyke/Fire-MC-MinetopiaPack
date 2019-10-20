@@ -1,11 +1,11 @@
 {
 	"__comment": "Designed by Nightcling",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_green",
-		"green": "blocks/hardened_clay_stained_brown",
-		"lime": "blocks/hardened_clay_stained_lime",
-		"black": "blocks/hardened_clay_stained_black",
-		"brown": "blocks/hardened_clay_stained_brown"
+		"particle": "block/green_terracotta",
+		"green": "block/terracotta_stained_brown",
+		"lime": "block/terracotta_stained_lime",
+		"black": "block/terracotta_stained_black",
+		"brown": "block/terracotta_stained_brown"
 	},
 	"elements": [ 	 
 		{

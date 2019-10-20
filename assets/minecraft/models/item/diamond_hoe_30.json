@@ -1,13 +1,13 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/special/skeleton_skin",
-		"skeletonskin": "blocks/special/skeleton_skin",
-		"blackskeletonhead": "blocks/wool_colored_black",
-		"skeletonleather": "blocks/special/skeleton_leather",
-		"skeletoneyes": "blocks/hardened_clay_stained_red",
-		"skeleton_sword": "blocks/special/skeleton_sword",
-		"goldskeletoncrown": "blocks/gold_block"
+		"particle": "block/special/skeleton_skin",
+		"skeletonskin": "block/special/skeleton_skin",
+		"blackskeletonhead": "block/black_wool",
+		"skeletonleather": "block/special/skeleton_leather",
+		"skeletoneyes": "block/red_terracotta",
+		"skeleton_sword": "block/special/skeleton_sword",
+		"goldskeletoncrown": "block/gold_block"
 	},
 	"elements": [
 		{

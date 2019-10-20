@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"1": "blocks/concrete_black",
-		"2": "blocks/concrete_yellow",
-		"3": "blocks/concrete_red"
+		"1": "block/hardened_clay_stained_black",
+		"2": "block/hardened_clay_stained_yellow",
+		"3": "block/hardened_clay_stained_red"
 	},
 	"elements": [
 		{

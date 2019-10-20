@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
-	"textures": {"mesh_atlas": "blocks/special/zijs"},
+	"textures": {"mesh_atlas": "block/special/zijs"},
 	"elements": [
 		{
 			"name": "cube",
